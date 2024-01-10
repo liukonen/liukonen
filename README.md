@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="header.png" alt="header" />
+
+# Hello
+
+- Outside of my day job, learning machine learning and prompt engineering
+- Also working on Home automations
+- And keeping my repos here up to date
+- Also from time to time, writing up an article on my  [dev.to](https://dev.to/liukonen) page.
+
 
 <!--
 **liukonen/liukonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
