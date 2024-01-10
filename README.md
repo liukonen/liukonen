@@ -8,7 +8,7 @@
 - Also from time to time, writing up an article on my  [dev.to](https://dev.to/liukonen) page.
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liukonen&show_icons=true&theme=transparent&hide_title=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=liukonen&show_icons=true&theme=vision-friendly-dark&hide_title=true&rank_icon=github)
 
 ---
 
