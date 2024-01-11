@@ -8,46 +8,34 @@
 - Also from time to time, writing up an article on my  [dev.to](https://dev.to/liukonen) page.
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liukonen&show_icons=true&theme=vision-friendly-dark&hide_title=true&rank_icon=github)
 
-## Professionally worked or currently work with
----
-
-[![pro stacked icons](https://skillicons.dev/icons?i=cs,dotnet,spring,java,nodejs,react,angular,js,ts,bots,docker,git,gitlab,gherkin,postgres&perline=5 'Pro icons')](https://liukonen.dev/#Knowledge)
-
-<a href="https://liukonen.dev/#Knowledge">
-  <img src="https://liukonen.dev/img/32/sqlserver.webp" alt="tSql" width="48px" height="48px" />
-</a>
-
-## Hobby worked with
----
-
-### Backend
-
-[![backend](https://skillicons.dev/icons?i=cs,dotnet,go,py 'backend')](https://liukonen.dev/#Knowledge)
+### Professionally worked or currently work with
 
 
-### UI
-[![Frontend](https://skillicons.dev/icons?i=svelte,vue,html,bootstrap,css,js,jquery,sass&perline=4 'Frontend')](https://liukonen.dev/#Knowledge)
+| backend | UI |
+|---------|----|
+|[![probackend](https://skillicons.dev/icons?i=cs,dotnet,spring,java,nodejs 'C-Sharp, .Net, Spring, Java, NodeJS')](https://liukonen.dev/#Knowledge) | [![proUI](https://skillicons.dev/icons?i=react,angular,js,ts,bots 'React, Angular, Javascript, Typescript, Bot Interfaces')](https://liukonen.dev/#Knowledge)|
+| Misc | DB |
+|[![promisc](https://skillicons.dev/icons?i=docker,git,gitlab,gherkin 'Docker, Git, GitLab, Gherkin')](https://liukonen.dev/#Knowledge) | [![probackend](https://skillicons.dev/icons?i=postgres,mysql 'Postgres, MySql, Sql Server')](https://liukonen.dev/#Knowledge) <a href="https://liukonen.dev/#Knowledge"><img src="https://liukonen.dev/img/32/sqlserver.webp" alt="tSql" width="48px" height="48px" /></a>  |
 
-### Scripting
 
-[![scripting](https://skillicons.dev/icons?i=bash,powershell 'Scripting')](https://liukonen.dev/#Knowledge)
+### Tech I work with in addition to
 
-### DB
 
-[![db](https://skillicons.dev/icons?i=redis,sqlite,mongodb 'Databases')](https://liukonen.dev/#Knowledge)
+| backend | UI    |
+| :---:   | :---: |
+|[![backend](https://skillicons.dev/icons?i=go,py 'C-Sharp, .Net, Go, Python')](https://liukonen.dev/#Knowledge) | [![Frontend](https://skillicons.dev/icons?i=svelte,vue,html,bootstrap,css,js,jquery,sass&perline=8 'Svelte, Vue, Html, Bootstrap, Css, Javascript, JQuery, Sass')](https://liukonen.dev/#Knowledge) |
+| Misc    | DB    |
+|[![scripting](https://skillicons.dev/icons?i=ai,bash,powershell 'Artificial Intelligence, Bash, Powershell')](https://liukonen.dev/#Knowledge) | [![db](https://skillicons.dev/icons?i=redis,sqlite,mongodb 'Redis, Sqlite, Mongo DB')](https://liukonen.dev/#Knowledge) |
+
 
 ---
-
-## My top Languages on Github
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liukonen&hide_progress=true&size_weight=1&count_weight=0&langs_count=12&hide=smalltalk,Inno%20Setup&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=liukonen&show_icons=true&theme=vision-friendly-dark&hide_title=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liukonen&hide_title=true&theme=vision-friendly-dark&hide_progress=true&size_weight=1&count_weight=0&langs_count=12&hide=smalltalk,Inno%20Setup)
 
 
-## IDE of Choice
 ---
-![ide](https://skillicons.dev/icons?i=vscode,visualstudio 'IDE')
+IDE of Choice ![ide](https://skillicons.dev/icons?i=vscode,visualstudio 'IDE')
+
 
 <!--
 **liukonen/liukonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,15 +50,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-postgres,SQL
-
-cs,go
-svelte,vue,html,bootstrap,css,js,jquery,sass
-py,bash,powershell,md
-github,ai,jenkins
-reids,sqlite
-
-
-visualstudio,vscode
 -->
