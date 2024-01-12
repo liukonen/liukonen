@@ -12,21 +12,21 @@
 ### Professionally worked or currently work with
 
 
-| Backend | UI    |
-| :-----: | :---: |
-|[![probackend](https://skillicons.dev/icons?i=cs,dotnet,spring,java,nodejs 'C-Sharp, .Net, Spring, Java, NodeJS')](https://liukonen.dev/#Knowledge) | [![proUI](https://skillicons.dev/icons?i=react,angular,js,ts,bots 'React, Angular, Javascript, Typescript, Bot Interfaces')](https://liukonen.dev/#Knowledge)|
-| DB      | Misc  |
-| [![probackend](https://skillicons.dev/icons?i=postgres,mysql 'Postgres, MySql, Sql Server')](https://liukonen.dev/#Knowledge) <a href="https://liukonen.dev/#Knowledge"><img src="https://liukonen.dev/img/32/sqlserver.webp" alt="tSql" width="48px" height="48px" /></a> |[![promisc](https://skillicons.dev/icons?i=docker,git,gitlab,gherkin,selenium 'Docker, Git, GitLab, Gherkin, Selenium')](https://liukonen.dev/#Knowledge) |
+|                                                Backend                                                 |                                                       UI                                                        |
+| :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| [![probackend](probackend.png 'C-Sharp, .Net, Spring, Java, NodeJS')](https://liukonen.dev/#Knowledge) | [![proUI](proui.png 'React, Angular, Javascript, Typescript, Bot Interfaces')](https://liukonen.dev/#Knowledge) |
+|                                                   DB                                                   |                                                      Misc                                                       |
+|       [![probackend](dbpro.png 'Postgres, MySql, Sql Server')](https://liukonen.dev/#Knowledge)        |       [![promisc](promisc.png 'Docker, Git, GitLab, Gherkin, Selenium')](https://liukonen.dev/#Knowledge)       |
 
 
 ### Tech I work with in addition to
 
 
-| Backend | UI    |
-| :---:   | :---: |
-|[![backend](https://skillicons.dev/icons?i=go,py 'C-Sharp, .Net, Go, Python')](https://liukonen.dev/#Knowledge) | [![Frontend](https://skillicons.dev/icons?i=svelte,vue,html,bootstrap,css,jquery,sass&perline=8 'Svelte, Vue, Html, Bootstrap, Css, JQuery, Sass')](https://liukonen.dev/#Knowledge) |
-| DB      | Misc  |
-| [![db](https://skillicons.dev/icons?i=redis,sqlite,mongodb 'Redis, Sqlite, Mongo DB')](https://liukonen.dev/#Knowledge) |[![scripting](https://skillicons.dev/icons?i=ai,bash,powershell,github,jenkins 'Artificial Intelligence, Bash, Powershell, Github,Jenkins')](https://liukonen.dev/#Knowledge)|
+|                                           Backend                                           |                                                             UI                                                             |
+| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+| [![backend](hobbybackend.png 'C-Sharp, .Net, Go, Python')](https://liukonen.dev/#Knowledge) |       [![Frontend](hobbyui.png 'Svelte, Vue, Html, Bootstrap, Css, JQuery, Sass')](https://liukonen.dev/#Knowledge)        |
+|                                             DB                                              |                                                            Misc                                                            |
+|       [![db](hobbydb.png 'Redis, Sqlite, Mongo DB')](https://liukonen.dev/#Knowledge)       | [![scripting](hobbymisc.png 'Artificial Intelligence, Bash, Powershell, Github,Jenkins')](https://liukonen.dev/#Knowledge) |
 
 
 ---
