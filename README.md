@@ -37,6 +37,10 @@
 IDE of Choice ![ide](https://skillicons.dev/icons?i=vscode,visualstudio 'IDE')
 
 
+---
+🔥🔥🔥 My profile Roasted (and yes, I changed some things around after 😄)
+https://github-roast.pages.dev/share/liukonen?lang=english
+
 <!--
 **liukonen/liukonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
