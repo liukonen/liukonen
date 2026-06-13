@@ -1,57 +1,42 @@
+
 ![Header](header.png 'header')
-
-# Hello
-
-- Outside of my day job, learning machine learning and prompt engineering
-- Also working on Home automation
-- And keeping my repos here up to date
-- Also from time to time, writing up an article on my  [dev.to](https://dev.to/liukonen) page.
 
 ---
 
-### Professionally worked or currently work with
+# ⚡ Luke Liukonen // Systems Architect & Senior Software Engineer
+
+```text
+> Architecting low-latency pipelines, hardened infrastructure, and snappy client experiences.
+> Specializing in the "invisible" side of tech: infrastructure, automation, and system design.
+
+```
+
+### 🔭 Current Focus
+
+* ⚙️ **Building cross-platform automation:** Developing utilities like the Go-based `SmartControlWeeklyNotifier` and PowerShell remote-health monitoring with Gotify webhooks.
+* 🧠 **Exploring AI Integration:** Testing local LLMs and prompt engineering using Jetson Nano and hardware accelerators.
+* 🏠 **Scaling the Homelab:** Managing a local server environment with Docker, Prometheus, and Grafana for automated telemetry.
+* 📝 **Writing:** Occasionally dropping technical spikes and architecture thoughts on [Dev.to](https://dev.to/liukonen) and [liukonen.dev](https://liukonen.dev).
+
+---
+
+### 💻 Core Tech Ecosystem
+
+| Focus Area | Technologies |
+| :--- | :--- |
+| **Architecture & Backend** | [![Backend](https://skillicons.dev/icons?i=cs,dotnet,spring,java,nodejs,go,bun,python&theme=dark)](https://liukonen.dev/#Knowledge) |
+| **Frontend & UI** | [![Frontend](https://skillicons.dev/icons?i=react,angular,js,ts,sass&theme=dark)](https://liukonen.dev/#Knowledge) |
+| **Databases** | [![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark)](https://liukonen.dev/#Knowledge) |
+| **Cloud & Infra** | [![Infra](https://skillicons.dev/icons?i=aws,azure,cloudflare,docker,prometheus,grafana&theme=dark)](https://liukonen.dev/#Knowledge) |
+| **Testing & Tooling** | [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bash,powershell,jest,cypress,selenium&theme=dark)](https://liukonen.dev/#Knowledge) |
+| **Specialized** | AI / Prompt Engineering, Bot Interfaces, SQL Server, Gherkin |
+
+> **Additional Expertise:** AI / Prompt Engineering, Bot Interfaces, SQL Server, and Gherkin.
 
 
-|                                                Backend                                                 |                                                       UI                                                        |
-| :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-| [![probackend](probackend.png 'C-Sharp, .Net, Spring, Java, NodeJS')](https://liukonen.dev/#Knowledge) | [![proUI](proui.png 'React, Angular, Javascript, Typescript, Bot Interfaces')](https://liukonen.dev/#Knowledge) |
-|                                                   DB                                                   |                                                      Misc                                                       |
-|       [![probackend](dbpro.png 'Postgres, MySql, Sql Server')](https://liukonen.dev/#Knowledge)        |       [![promisc](promisc.png 'Docker, Git, GitLab, Gherkin, Selenium')](https://liukonen.dev/#Knowledge)       |
+---
 
-
-### Tech I work with in addition to
-
-
-|                                           Backend                                           |                                                             UI                                                             |
-| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-| [![backend](hobbybackend.png 'C-Sharp, .Net, Go, Python')](https://liukonen.dev/#Knowledge) |       [![Frontend](hobbyui.png 'Svelte, Vue, Html, Bootstrap, Css, JQuery, Sass')](https://liukonen.dev/#Knowledge)        |
-|                                             DB                                              |                                                            Misc                                                            |
-|       [![db](hobbydb.png 'Redis, Sqlite, Mongo DB')](https://liukonen.dev/#Knowledge)       | [![scripting](hobbymisc.png 'Artificial Intelligence, Bash, Powershell, Github,Jenkins')](https://liukonen.dev/#Knowledge) |
-
+### 📊 GitHub Activity
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=liukonen&show_icons=true&theme=vision-friendly-dark&hide_title=true&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liukonen&hide_title=true&theme=vision-friendly-dark&hide_progress=true&size_weight=1&count_weight=0&langs_count=12&hide=smalltalk,Inno%20Setup)
-
-
----
-IDE of Choice ![ide](https://skillicons.dev/icons?i=vscode,visualstudio 'IDE')
-
-
----
-🔥🔥🔥 My profile Roasted (and yes, I changed some things around after 😄)
-https://github-roast.pages.dev/share/liukonen?lang=english
-
-<!--
-**liukonen/liukonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
